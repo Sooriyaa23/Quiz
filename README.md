@@ -1,1 +1,1 @@
-This app represent the multiple choice question in react-native
+This app represent the multiple choice question in react-native.
